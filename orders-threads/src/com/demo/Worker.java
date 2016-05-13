@@ -4,10 +4,7 @@ import java.util.LinkedList;
 import java.util.PriorityQueue;
 import java.util.Queue;
 
-/**
- * @author Hao Wang 
- *
- */
+
 
 public class Worker implements Runnable {
 	
