@@ -8,7 +8,7 @@ import java.util.Queue;
  * @author Hao Wang 
  *
  */
-//steven
+
 public class Worker implements Runnable {
 	
 	static PriorityQueue<Order> queue = new PriorityQueue<Order>(5);;
