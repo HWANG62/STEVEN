@@ -5,9 +5,10 @@ import java.util.PriorityQueue;
 import java.util.Queue;
 
 /**
- * @author Hao Wang
+ * @author Hao Wang 
  *
  */
+//This is my project
 public class Worker implements Runnable {
 	
 	static PriorityQueue<Order> queue = new PriorityQueue<Order>(5);;
